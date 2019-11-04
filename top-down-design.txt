@@ -1,0 +1,36 @@
+1. Making a sandwich
+  1.1 Gather ingredients
+    1.1.1 Go to pantry
+    1.1.2 Collect bread, jam, and peanut butter
+    1.1.3 Place ingredients on the counter
+  1.2 Gather utensils
+   1.2.1 Go to the cabinet
+    1.2.2 Get out a plate
+   1.2.3 Go to the drawer
+    1.2.4 Get out a butter knife
+    1.2.5 Place plate and knife on the counter
+  1.3 Prepare bread
+    1.3.1 Open the bread bag
+    1.3.2 Remove 2 slices of bread
+    1.3.3 Place slices next to each other on the plate
+  1.4 Prepare peanut butter
+    1.4.1 Open jar of peanut butter
+    1.4.2 Place cap on the counter next to jar
+  1.5 Prepare jam
+    1.5.1 Open jar of jam
+    1.5.2 Please cap on the counter next to jar
+  1.6 Make peanut butter half of sandwich
+    1.6.1 Pick up butter knife
+    1.6.2 Hold the handle and use the end to scoop peanut butter from peanut butter container
+    1.6.3 Move peanut butter covered knife over to the first slice of bread
+    1.6.4 Use knife to spread peanut butter evenly across the first slice of bread
+  1.7 Make jam half of sandwich
+    1.7.1 With knife still in hand, scoop jam onto the end of the knife.
+    1.7.2 Move jam covered knife over to the second slice of bread
+    1.7.3 Use knife to spread jam evenly across the second slice of bread
+  1.8 Put knife down.
+  1.9 Assemble sandwich
+    1.9.1 With right hand, pick up the peanut butter slice by sliding hand under the slice keeping the peanut butter side face up
+    1.9.2 With left hand, pick up the jam slice by sliding hand under the slice and keeping the jam side face up
+    1.9.3 Move hands together as if clapping the bread together to bring jam and peanut butter sides to touch
+    1.9.4 Place sandwich on the plate. 
