@@ -1,0 +1,27 @@
+Boat
+- Speed Boat
+  - long
+  - slim
+  - motor
+  - no sail
+- Yacht
+  - large
+  - luxury
+  - motor
+- Sailboat
+  - sail
+  - slim
+
+Dog
+- Pug
+  - small
+  - short hair
+  - round head
+- Husky
+  - large
+  - long head
+  - long hair
+- Vizsla
+  - short hair
+  - large
+  - skinny
