@@ -1,0 +1,13 @@
+Class: Boat
+  Attributes:
+    color- White
+    top_speed - 100 knots
+    total_capacity - 10
+    current_capacity - 5
+    current_speed - 40 knots
+    number_of_life_vests - 10
+  Methods:
+    change_color- resets color attribute
+    maximize_capacity- sets current_capacity to total_capacity
+    maximize_speed- sets current_speed to top_speed
+    remove_life_vest- decrease vest count by 1
